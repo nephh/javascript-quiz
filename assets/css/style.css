@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+
+#options {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+
+#resultContainer {
+  margin-top: 20px;
+}
+
+#leaderboard {
+  margin: auto;
+  list-style-type: none;
+  max-width: 300px;
+  font-size: large;
+  display: none;
+  padding: 0%;
+}
