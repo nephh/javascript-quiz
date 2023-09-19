@@ -16,7 +16,7 @@ The HTML and JavaScript code in this repository is an app for a simple JavaScrip
 
 ## Quiz Instructions
 
-You have 1 minute to answer all four JavaScript question! Answer wrong and 5 seconds will be removed from your time! Save you initials and score at the end to the leaderboard!
+You have 1 minute to answer all four JavaScript questions! Answer wrong and 5 seconds will be removed from your time! Save you initials and score at the end to the leaderboard!
 
 ## Usage
 
