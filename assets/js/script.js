@@ -107,7 +107,7 @@ function selectAnswer(event) {
     timeLeft -= 5;
   }
 
-  var resultsText = selectedAnswer === correctAnswer ? "Correct!" : "Wrong!";
+  var resultsText = selectedAnswer === correctAnswer ? "Correct!" : "Wrong! -5 Seconds!";
   var resultsColor = selectedAnswer === correctAnswer ? "green" : "red";
 
   resultsEl.textContent = resultsText;
