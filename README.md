@@ -5,7 +5,7 @@ This repository contains the HTML and JavaScript for a simple timed quiz.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#installation)
+- [Quiz Instructions](#quiz-instructions)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -14,7 +14,7 @@ This repository contains the HTML and JavaScript for a simple timed quiz.
 
 The HTML and JavaScript code in this repository is an app for a simple JavaScript themed mulitple choice quiz that is timed.
 
-## Quic Instructions
+## Quiz Instructions
 
 You have 1 minute to answer all four JavaScript question! Answer wrong and 5 seconds will be removed from your time! Save you initials and score at the end to the leaderboard!
 
